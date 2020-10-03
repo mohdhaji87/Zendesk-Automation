@@ -137,16 +137,3 @@ def get_details():
 
 if __name__ == "__main__" :
 	get_details()
-
-
-
-
-
-
-
-
-
- 	
- 	
-
-
